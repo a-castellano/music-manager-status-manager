@@ -1,2 +1,5 @@
-# music-manager-status-manager
-Service that creates and updates jobs status
+# Status Manager
+
+[Actual Repo](https://git.windmaker.net/musicmanager/status-manager)
+
+Service that stores and updates jobs status.
