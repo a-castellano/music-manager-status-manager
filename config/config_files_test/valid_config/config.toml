@@ -1,0 +1,7 @@
+[storage]
+servicename = "redis"
+serviceport = 6379 
+servicedb = 2
+
+[webserver]
+port = 8080
